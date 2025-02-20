@@ -37,18 +37,6 @@
       "id": 98443197
     },
     {
-      "cityName": "Cartaxo",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2025-01-14T10:16:10.000Z",
-      "notes": "dssdgsfg",
-      "position": {
-        "lat": "39.16899714376467",
-        "lng": "-8.77875061382359"
-      },
-      "id": 98443198
-    },
-    {
       "cityName": "Paris",
       "country": "France",
       "emoji": "🇫🇷",
@@ -59,18 +47,6 @@
         "lng": "2.2830462640156273"
       },
       "id": 98443199
-    },
-    {
-      "cityName": "Amersfoort",
-      "country": "Netherlands (Kingdom of the)",
-      "emoji": "🇳🇱",
-      "date": "2024-12-29T10:19:49.000Z",
-      "notes": "amersfoot was not crowded and beautiful ",
-      "position": {
-        "lat": "52.16129021606482",
-        "lng": "5.467898320981527"
-      },
-      "id": 98443200
     },
     {
       "cityName": "London",
@@ -85,28 +61,16 @@
       "id": 98443201
     },
     {
-      "cityName": "Lichfield",
-      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
-      "emoji": "🇬🇧",
-      "date": "2025-02-20T10:23:04.314Z",
-      "notes": "",
+      "cityName": "Rome",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-02-13T13:22:32.000Z",
+      "notes": "Best historical city",
       "position": {
-        "lat": "52.709494070915646",
-        "lng": "-1.6702647477224544"
+        "lat": "41.89096289942021",
+        "lng": "12.463989257812502"
       },
       "id": 98443202
-    },
-    {
-      "cityName": "Lancaster",
-      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
-      "emoji": "🇬🇧",
-      "date": "2024-06-02T10:24:14.000Z",
-      "notes": "Async",
-      "position": {
-        "lat": "54.07246567493426",
-        "lng": "-2.664576424852456"
-      },
-      "id": 98443203
     }
   ]
 }
