@@ -14,7 +14,10 @@ module.exports = {
   rules: {
     "react-refresh/only-export-components": [
       "warn",
-      { allowConstantExport: true, allowExportNames: ["useCities"] },
+      {
+        allowConstantExport: true,
+        allowExportNames: ["useCities"],
+      },
     ],
     "no-unused-vars": "warn",
     "react/prop-types": "off",
