@@ -49,18 +49,6 @@
       "id": 98443199
     },
     {
-      "cityName": "London",
-      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
-      "emoji": "🇬🇧",
-      "date": "2025-01-05T10:20:41.000Z",
-      "notes": "London is a dream",
-      "position": {
-        "lat": "51.53918184967871",
-        "lng": "0.06557132819541957"
-      },
-      "id": 98443201
-    },
-    {
       "cityName": "Rome",
       "country": "Italy",
       "emoji": "🇮🇹",
@@ -71,6 +59,18 @@
         "lng": "12.463989257812502"
       },
       "id": 98443202
+    },
+    {
+      "cityName": "Valletta",
+      "country": "Malta",
+      "emoji": "🇲🇹",
+      "date": "2024-03-31T05:10:39.000Z",
+      "notes": "Second home",
+      "position": {
+        "lat": "35.897836838850225",
+        "lng": "14.510364532470705"
+      },
+      "id": 98443203
     }
   ]
 }
